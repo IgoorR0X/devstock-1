@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\bin\Debug\frmLogin.exe.config
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\bin\Debug\frmLogin.exe
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\bin\Debug\frmLogin.pdb
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.Form1.resources
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.exe
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.pdb
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\bin\Debug\frmLogin.exe.manifest
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\bin\Debug\frmLogin.application
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.exe.manifest
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.application
+C:\Users\Igor\Desktop\DevStock\frmLogin\frmLogin\obj\Debug\frmLogin.csprojAssemblyReference.cache
