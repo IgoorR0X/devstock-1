@@ -1,4 +1,4 @@
-﻿namespace frmLogin
+﻿namespace DevStock
 {
     partial class Form1
     {

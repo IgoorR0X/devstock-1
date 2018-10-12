@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2003
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmLogin", "frmLogin\frmLogin.csproj", "{67DE6AE3-16C1-4F94-8C94-C9CB4C1CA32A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStock", "frmLogin\DevStock.csproj", "{67DE6AE3-16C1-4F94-8C94-C9CB4C1CA32A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
