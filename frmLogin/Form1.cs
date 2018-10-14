@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace frmLogin
+namespace DevStock
 {
     public partial class Form1 : Form
     {
@@ -25,11 +25,11 @@ namespace frmLogin
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Cadastrar cad = new Cadastrar(txbLogin.Text, txbPassw.Text);
-
-            MessageBox.Show(cad.mensagem);
-
-
+            using (Helpers.DBHelper instance = Helpers.DBHelper.Instance()) {
+                instance.Initialize();
+                SqlDataReader reader = instance.Query("select * from usuarios");
+                MessageBox.Show(reader.Read().ToString());
+            }
         }
     }
 }
